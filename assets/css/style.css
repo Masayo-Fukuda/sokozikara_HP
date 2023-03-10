@@ -505,13 +505,13 @@ body {
 
 @media screen and (max-width:600px) {
   .other_menu {
-    font-size: 40%;
+    letter-spacing: initial;
+    font-size: 80%;
     margin-top: 10%;
   }
 }
 
 .other_menu > img {
-  
   width: 50%;
   height: auto;
   margin-top: 5%;
