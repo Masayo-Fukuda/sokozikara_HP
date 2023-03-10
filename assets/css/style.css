@@ -497,11 +497,6 @@ body {
   height: 100%;
 }
 
-@media screen and (max-width:600px) {
-  .all_menu > a {
-    height: 15px;
-  }
-}
 
 .other_menu {
   margin-top: 15vh;
